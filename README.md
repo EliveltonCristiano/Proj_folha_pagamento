@@ -3,7 +3,7 @@
 	Titulo: Proj_folha_pagamento
 	Professor: Baldoino Fonseca dos Santos Neto
 	
-	O objetivo do projeto é construir um sistema de folha de pagamento.
+	O objetivo do projeto é construir um sistema de folha de pagamento, com as seguintes funcionalidades(abaixo).
 	
 	01 Adição de um empregado 
 	02 Remoção de um empregado
