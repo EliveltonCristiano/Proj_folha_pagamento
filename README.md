@@ -5,15 +5,16 @@
 	
 	O objetivo do projeto é construir um sistema de folha de pagamento, com as seguintes funcionalidades(abaixo).
 	
-	01 Adição de um empregado 
-	02 Remoção de um empregado
-	03 Lançar um Cartão de Ponto 
-	04 Lançar um Resultado Venda 
-	05 Lançar uma taxa de serviço   
-	06 Alterar detalhes de um empregado  
-	07 Rodar a folha de pagamento para hoje  
-	08 Undo/redo   
-	09 Agenda de Pagamento   
-	10 Criação de Novas Agendas de Pagamento   
+	01 Adicionar empregado
+	02 Remover empregado
+	03 Lançar cartão de Ponto 
+	04 Lançar resultado Venda 
+	05 Lançar taxa de serviço   
+	06 Alterar detalhes do empregado  
+	07 Rodar folha de pagamento
+	08 undo ou redo(Desfazer ou Refazer)
+	09 Vizualizar agenda de pagamento
+	10 Criaar nova agenda de pagamento   
+	11 Sair do sistema
 
 	
